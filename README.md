@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Eagle+Lake&size=26&pause=1000&color=B82828&background=ACA17600&width=435&lines=Immortals+great+and+terrible...;4+horsemen+of+the+apocalypse...;int422+;%5BPT%5D+Knight+of+valor;kroFEIR;fertux1875" width="60%" />
-  <img src="https://i.pinimg.com/736x/7e/5f/3a/7e5f3a1224d595276055ed979564e8c0.jpg" width="40%" align="right" />
+  <img src="https://i.pinimg.com/736x/7e/5f/3a/7e5f3a1224d595276055ed979564e8c0.jpg" width="27%" align="right" />
   <br><br>
   <pre style="text-align: left; font-family: 'Sixtyfour Convergence', sans-serif;">
 💻 I'm a junior Python developer actively exploring the world of programming 
