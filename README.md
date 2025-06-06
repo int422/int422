@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://i.pinimg.com/736x/7e/5f/3a/7e5f3a1224d595276055ed979564e8c0.jpg" width="28%" align="right" />
+<img src="https://i.pinimg.com/736x/7e/5f/3a/7e5f3a1224d595276055ed979564e8c0.jpg" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Eagle+Lake&size=26&pause=1000&color=B82828&background=ACA17600&width=435&lines=Immortals+great+and+terrible...;4+horsemen+of+the+apocalypse...;int422+;%5BPT%5D+Knight+of+valor;kroFEIR;fertux1875" width="70%" />
 <br><br>
 <pre>
     💼 BSC @ UFMG • Back-end dev • Platform Engineer
     💻 System programming languages • DevOps 
     📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
+    🎮 Music • Games • Anime • Rally • F1
     🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
 </pre>
 <br><br>
